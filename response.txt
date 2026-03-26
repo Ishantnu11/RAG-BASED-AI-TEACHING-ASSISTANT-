@@ -1,0 +1,7 @@
+You're interested in learning about HTML.
+
+In our course, we cover HTML in several videos. The first introduction to HTML is in Video 1, where we talk about how websites work and briefly explain what HTML is (starting at timestamp 490.9 seconds). We also cover some basic concepts of HTML like images, lists, and tables in Video 5.
+
+If you'd like to learn more about the basics of HTML or how it's used for SEO and core web vitals, we have Video 6 that covers those topics in detail (starting at timestamp 750.0 seconds).
+
+Would you like me to guide you to one of these videos?
